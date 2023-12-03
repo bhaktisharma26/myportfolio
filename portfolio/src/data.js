@@ -1,10 +1,11 @@
+
 export const projects = [
   {
     title: "Weather App",
     subtitle: "HTML, CSS & JavaScript",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "../images/weatherApp.png",
+    image: "./images/weatherApp.png",
     link: "https://bhaktisharma26.github.io/weatherApp/",
   },
   {
@@ -12,7 +13,7 @@ export const projects = [
     subtitle: "HTML, CSS & JavaScript",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "../images/todo.png",
+    image: "./images/todo.png",
     link: "https://bhaktisharma26.github.io/todo_list/",
   },
   {
