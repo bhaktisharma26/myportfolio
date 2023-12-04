@@ -6,7 +6,7 @@ import Skills from "./components/Skills";
 import Contact from "./components/Contact";
 function App() {
   return (
-    <main className="text-gray-400 bg-gradient-to-r from-slate-900 to-slate-700 body-font">
+    <main className="text-gray-400 bg-gradient-to-r from-gray-800 to-gray-900 body-font">
       <Navbar />
       <About />
       <Projects />
