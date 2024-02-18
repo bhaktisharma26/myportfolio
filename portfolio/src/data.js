@@ -1,28 +1,36 @@
 
 export const projects = [
   {
-    title: "Weather App",
-    subtitle: "HTML, CSS & JavaScript",
+    title: "Resume Builder",
+    subtitle: "ReactJs, BootStrap and ExpressJs",
     description:
-      "This is a weather app that can predict weather of the given location",
+      "Resume Builder where you can fill data and also download your resume",
     image: "../images/weatherApp.png",
     link: "https://bhaktisharma26.github.io/weatherApp/",
   },
   {
-    title: "ToDo List",
-    subtitle: "HTML, CSS & JavaScript",
+    title: "Todo List",
+    subtitle: "Implements Redux Toolkit",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "../images/todo.png",
-    link: "https://bhaktisharma26.github.io/todo_list/",
+      "A simple todo list made to learn Redux ToolKit implementation in React",
+    image: "../images/todoRedux.png",
+    link: "https://github.com/bhaktisharma26/todoReduxToolkit.git",
   },
   {
-    title: "Color Generator",
-    subtitle: "HTML, CSS & JavaScript",
+    title: "Google-Docs-Clone",
+    subtitle: "ReactJs, ExpressJs, Socket.io and Quill",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "../images/colorGenerator.png",
-    link: "https://bhaktisharma26.github.io/Random-color-generator/",
+      " Leveraged React.js for a dynamic and responsive UI.Implemented Socket.io for real-time updates",
+    image: "../images/google-docs-clone.png",
+    link: "https://github.com/bhaktisharma26/google-docs-clone.git",
+  },
+  {
+    title: "Todo List",
+    subtitle: "Implements Redux Toolkit",
+    description:
+      "A simple todo list made to learn Redux ToolKit implementation in React",
+    image: "../images/todoRedux.png",
+    link: "https://github.com/bhaktisharma26/todoReduxToolkit.git",
   },
 ];
 
