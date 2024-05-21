@@ -5,7 +5,7 @@ function Projects() {
   return (
     <section
       id="projects"
-      className="text-gray-400 bg-gradient-to-r from-gray-800 to-gray-900 body-font"
+      className="text-gray-400 bg-gradient-to-r bg-neutral-900 body-font"
     >
       <div className="container px-5 py-10 mx-auto text-center lg:px-40">
         <div className="flex flex-col w-full mb-20">
@@ -30,7 +30,7 @@ function Projects() {
                   className="absolute inset-0 w-full h-full bg-blend-darken object-cover object-center hover:scale-75"
                   src={project.image}
                 />
-                <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-800 bg-gray-900 opacity-0 hover:opacity-100 scale-75">
+                <div className="px-8 py-10 relative z-10 w-full border-4 bg-neutral-800 opacity-0 hover:opacity-100 scale-75">
                   <h2 className="tracking-widest text-sm title-font font-medium text-green-400 mb-1">
                     {project.subtitle}
                   </h2>
